@@ -2,7 +2,8 @@
 <h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **React.js,NodeJS, Express, Data Structures &
-Algorithms** - 📫 How to reach me **soumilsaitra@gmail.com**
+Algorithms** 
+- 📫 How to reach me **soumilsaitra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
